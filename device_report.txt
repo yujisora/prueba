@@ -1,0 +1,6 @@
+Network Device Report
+Name  : cat
+IP    : 12345
+Ports : [3, 6]
+Uptime: 5.0 h (0.21 days)
+Status: ACTIVE
