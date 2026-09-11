@@ -1,6 +1,6 @@
 Network Device Report
-Name  : cat
-IP    : 12345
-Ports : [3, 6]
-Uptime: 5.0 h (0.21 days)
+Name  : Cisco 1541
+IP    : 10.3.4.2
+Ports : [3, 4, 5, 6, 9]
+Uptime: 54.0 h (2.25 days)
 Status: ACTIVE
